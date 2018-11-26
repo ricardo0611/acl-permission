@@ -8,5 +8,8 @@
             "email": "deividdyn@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7",
+        "codeigniter/framework": "^3.1"
+    }
 }
