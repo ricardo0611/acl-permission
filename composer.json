@@ -1,0 +1,12 @@
+{
+    "name": "deividdy/acl-permission",
+    "description": "acl application codeigniter and permission user",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deividdy Nogueira",
+            "email": "deividdyn@gmail.com"
+        }
+    ],
+    "require": {}
+}
